@@ -1,0 +1,12 @@
+function isPrime(n) {
+    if (n <= 1) return `${n} is not prime`;
+    if (n <= 3) return `${n} is prime`;
+    if (n % 2 === 0 || n % 3 === 0) return `${n} is not prime`;
+    for (let i = 5; i * i <= n; i += 6) {
+        if (n % i === 0 || n % (i + 2) === 0) return `${n} is not prime`;
+    }
+    return `${n} is prime`;
+}
+
+console.log(isPrime(17));
+console.log(isPrime(24));
