@@ -1,0 +1,12 @@
+function vectorAdd(a, b) {
+    if (a.length !== b.length) {
+        return "Vectors must be of the same length";
+    }
+    var result = [];
+    for (var i = 0; i < a.length; i++) {
+        result.push(a[i] + b[i]);
+    }
+    return result;
+}
+
+console.log(vectorAdd([1, 2], [3, 4]));
