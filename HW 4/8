@@ -1,0 +1,27 @@
+function gradient(f, p) {
+    var h = 0.00001; 
+    var grad = []; 
+
+    for (var i = 0; i < p.length; i++) {
+        var p1 = p.slice(); // Copy of p
+        var p2 = p.slice(); // Another copy of p
+
+        p1[i] += h;
+        p2[i] -= h;
+
+        var diff = (f(p1) - f(p2)) / (2 * h);
+        grad.push(diff);
+    }
+
+    return grad;
+}
+
+function f(p) {
+    var x = p[0];
+    var y = p[1];
+    return x * x + y * y;
+}
+
+var p = [3, 4];
+
+console.log(gradient(f, p));
