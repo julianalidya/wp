@@ -10,3 +10,4 @@ function weekday(str) {
 }
 
 console.log(weekday("Sunday"));
+console.log(weekday("Friday"));
