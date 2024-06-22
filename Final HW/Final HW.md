@@ -5,7 +5,8 @@
   * [原始碼](https://github.com/julianalidya/wp/blob/master/HW%201/index.html)
     
 ## HW 2
-    Got inspiration from Youtube * [video](https://youtu.be/okbByPWS1Xc?si=l1cSsd0TkYUA-puO)
+    Got inspiration from Youtube video
+  * [Vid](https://youtu.be/okbByPWS1Xc?si=l1cSsd0TkYUA-puO)
 ### 沒有CSS
   * [網頁](https://julianalidya.github.io/wp/HW%202/Without%20CSS/index.html)
   * [原始碼](https://github.com/julianalidya/wp/blob/master/HW%202/Without%20CSS/index.html)
@@ -43,6 +44,7 @@
   * [原始碼](https://github.com/julianalidya/wp/blob/master/HW%206/2/index.html)
 
 ## Mid Exam
-    Got inspiration from * [Youtube](https://youtu.be/K8Rh5x3c9Pw?si=5m43-OYBr6N9XbtZ) videos
+    Got inspiration from Youtube video
+  * [Vid](https://youtu.be/K8Rh5x3c9Pw?si=5m43-OYBr6N9XbtZ)
   * [網頁](https://julianalidya.github.io/wp/Mid%20Term/index.html)
   * [原始碼](https://github.com/julianalidya/wp/blob/master/Mid%20Term/index.html)
