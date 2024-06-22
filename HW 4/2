@@ -1,0 +1,11 @@
+function arrayMin(a) {
+    var minValue = a[0];
+    for (var i = 1; i < a.length; i++) {
+        if (a[i] < minValue) {
+            minValue = a[i];
+        }
+    }
+    return minValue;
+}
+
+console.log(arrayMin([10, 5, 7, 3, 8]));
