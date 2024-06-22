@@ -1,0 +1,14 @@
+function countChar(str) {
+    var count = {};
+    for (var i = 0; i < str.length; i++) {
+        var char = str[i];
+        if (count[char]) {
+            count[char]++;
+        } else {
+            count[char] = 1;
+        }
+    }
+    return count;
+}
+
+console.log(countChar("aabccadeaac"));
