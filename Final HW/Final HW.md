@@ -5,7 +5,7 @@
   * [原始碼](https://github.com/julianalidya/wp/blob/master/HW%201/index.html)
     
 ## HW 2
-    Got inspiration from * [Youtube](https://youtu.be/okbByPWS1Xc?si=l1cSsd0TkYUA-puO) videos
+    Got inspiration from Youtube * [video](https://youtu.be/okbByPWS1Xc?si=l1cSsd0TkYUA-puO)
 ### 沒有CSS
   * [網頁](https://julianalidya.github.io/wp/HW%202/Without%20CSS/index.html)
   * [原始碼](https://github.com/julianalidya/wp/blob/master/HW%202/Without%20CSS/index.html)
